@@ -1,18 +1,18 @@
 <p align="center">
-   <a href="https://shadcndashboard.dev" target="_blank">
+   <a href="https://cuba-ui-dashboard.netlify.app/" target="_blank">
       <img src="https://shadcndashboard-demo.vercel.app/images/logos/logoicon.svg" alt="shadcndashboard-logo" width="50px" height="50px">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://shadcndashboard.dev" target="_blank" align="center">
+   <a href="https://cuba-ui-dashboard.netlify.app/" target="_blank" align="center">
       UI Dashboards
    </a>
 </h1>
 
 <p align="start">Shadcn Dashboard is a modern, responsive admin dashboard template built with React (Vite). Built with Shadcn UI, Base UI and Tailwind CSS v4, it ships with a modern dashboard, Blog, Notes & Tickets apps, authentication pages, form layouts, data tables, user profile, and rich UI components - giving you everything you need to build your next admin panel faster.</p>
 
-<kbd>[![Shadcn Dashboard - Demo Screenshot](https://shadcndashboard-demo.vercel.app/OG-Image.png)](https://shadcndashboard.dev)</kbd>
+<kbd>[![Shadcn Dashboard - Demo Screenshot](https://shadcndashboard-demo.vercel.app/OG-Image.png)](https://cuba-ui-dashboard.netlify.app/)</kbd>
 
 ## Introduction 📊
 
